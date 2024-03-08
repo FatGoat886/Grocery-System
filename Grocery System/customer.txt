@@ -1,0 +1,2 @@
+Mery Yang  40,Jalan Berjaya 2,Taman Berjaya,82000 Pontian,Johor.  yang72@gmail.com  123456789  Male  08-05-2003  chua  8686 
+Chuan Yi  899,Jalan Ail 4,Taman Berjaya,82000 Pontian,Johor.  xuanyi90@gmail.com  01024596345  Male  07-05-03  gg  8787  
